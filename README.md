@@ -11,3 +11,9 @@ Once you install it, You will see a module added in your Powershell ISE.
 To See the module in Powershell ISE, Enable Command Add-on Panel and scroll in Modules list and check for "AWSPowershell".
 
 Paste the Script and hit run. Enjoy ! Thank you ! 
+
+
+You can contact me on below:
+
+#Twitter : https://twitter.com/9thplayer
+#Linkedin: https://www.linkedin.com/in/shekhar-sarvaiya/
