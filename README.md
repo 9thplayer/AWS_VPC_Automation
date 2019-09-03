@@ -15,5 +15,5 @@ Paste the Script and hit run. Enjoy ! Thank you !
 
 You can contact me on below:
 
-#Twitter : https://twitter.com/9thplayer
-#Linkedin: https://www.linkedin.com/in/shekhar-sarvaiya/
+Twitter : https://twitter.com/9thplayer
+Linkedin: https://www.linkedin.com/in/shekhar-sarvaiya/
