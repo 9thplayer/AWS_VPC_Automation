@@ -1,5 +1,7 @@
-﻿#Create VPC in different region
-
+#Create VPC in different region
+#Created by Shekhar Sarvaiya 
+#Twitter : https://twitter.com/9thplayer
+#Linkedin: https://www.linkedin.com/in/shekhar-sarvaiya/
 
 
 #Getting region and CIDR block input from user
