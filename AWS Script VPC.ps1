@@ -114,7 +114,7 @@ if($routetable -eq 'Yes')
             else
             {
                 
-                Write-Output "Please add manually from AWS Console. Thanks!!" 
+                Write-Output "Coming Soon ! Meanwhile Please add manually from AWS Console. Thanks!!" 
 
             }
         }
